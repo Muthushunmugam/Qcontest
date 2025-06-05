@@ -1,0 +1,1 @@
+QContest is a robust contest application designed to simulate programming challenges, similar to platforms like Hackerrank. This project aims to develop an application that enables users to participate in and manage coding contests. By focusing on core Java and design principles, developers are tasked with creating a scalable and maintainable contest framework.
